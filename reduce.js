@@ -9,4 +9,4 @@ const total = [1, 2, 3, 4, 5].reduce(function (prev, cur) {
   return prev + cur;
 }, 0);
 
-console.log(total); 
+console.log(total);
